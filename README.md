@@ -1,0 +1,2 @@
+# aigcnovel
+AIGCNovel Web
